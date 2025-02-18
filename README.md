@@ -1,3 +1,3 @@
 # My-resume
-My resume website
-showcase of my HTML CSS. My first step into programming.
+My resume website.
+The showcase of my HTML CSS. My first step into programming.
